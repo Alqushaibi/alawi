@@ -1,7 +1,7 @@
 ---
-title: '个人网站搭建'
-date: 2021-2-21
-permalink: /posts/2020/2/homepage/
+title: 'Personal website construction'
+date: 2024-3-17
+permalink: /posts/2024/2/homepage/
 tags:
   - 中文
   - 个人网站
