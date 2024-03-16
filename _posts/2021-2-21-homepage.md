@@ -1,5 +1,5 @@
 ---
-title: '个人网站搭建'
+title: 'Blog'
 date: 2021-2-21
 permalink: /posts/2020/2/homepage/
 tags:
