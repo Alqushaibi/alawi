@@ -3,8 +3,8 @@ title: 'Personal website construction'
 date: 2024-3-17
 permalink: /posts/2024/2/homepage/
 tags:
-  - 中文
-  - 个人网站
+  - English
+  - Personal website
   - Github Pages
 ---
 
