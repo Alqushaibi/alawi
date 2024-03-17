@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 permalink: /cv&contact/
-author_profile: true
+# author_profile: true
 ---
 
 
